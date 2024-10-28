@@ -1,0 +1,94 @@
+.container-fluid{
+    background-color: #fdfdfde0;  /*#93bc3f #597226*/
+    font-family: "Montserrat", sans-serif;
+}
+#title{
+    color: rgb(2, 163, 2);
+
+}
+#menu{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    
+}
+
+.titulo{
+    background-image: url("https://cdn.pixabay.com/photo/2013/02/28/11/06/fir-86776_960_720.jpg");
+    height: 60vh;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: grid;
+    place-items: center;
+    
+    
+}
+#lema{
+    text-shadow: -5px 5px 5px rgba(0, 0, 0, 0.99);
+}
+.display-1{
+    text-shadow: -8px 7px 8px rgba(0, 0, 0, 1);
+    
+}
+.productDest{
+    margin: auto;
+    color: #2E475D;
+    text-shadow: -2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+#dest{
+    background-image: url("https://images.pexels.com/photos/7795814/pexels-photo-7795814.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: grid;
+    text-shadow: -2px 2px 8px rgba(0, 0, 0, 0.9);
+
+}
+#dest1{
+    background-image: url("https://images.pexels.com/photos/6461513/pexels-photo-6461513.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: grid;
+    text-shadow: -2px 2px 8px rgba(0, 0, 0, 0.9);
+
+}
+#dest2{
+    background-image: url("https://images.pexels.com/photos/7814567/pexels-photo-7814567.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: grid;
+    text-shadow: -2px 2px 8px rgba(0, 0, 0, 0.9);
+
+}
+.product{
+   
+    border-radius: 20px;
+    margin: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.6);
+    height: 50vh;
+    color: white;
+}
+.present{
+    background-color: rgba(180, 178, 178, 0.637);
+    display: grid;
+    place-items: center;
+    color: #2E475D;
+    border-radius: 30px;
+    
+}
+
+.formulario{
+    background-color: rgba(180, 178, 178, 0.637);
+    border-radius: 5px;
+    height: auto;
+    
+}
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: rgba(255, 114, 114, 0.801);
+    padding-top: 20px;
+
+}
+
+
